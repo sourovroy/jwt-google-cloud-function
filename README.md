@@ -1,1 +1,1 @@
-# Jwt In Google Cloud Function
+# JWT Auth In Google Cloud Function
